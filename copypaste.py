@@ -2,6 +2,9 @@ import pandas as pd
 import collections as co
 import pickle
 nnnn
+[‎7/‎18/‎2017 3:23 PM] Wijaya, L.: 
+http://matthewrocklin.com/blog/work/2015/03/16/Fast-Serialization 
+
 #--------------------------Dec-Mar----------------------------#
 path="C:/Users/laura.han/PycharmProjects/SCB/v9/automation/data/data.pickle"
 self=pickle.load(open(path, "rb"))
