@@ -1,7 +1,7 @@
 import pandas as pd
 import collections as co
 import pickle
-
+nnnn
 #--------------------------Dec-Mar----------------------------#
 path="C:/Users/laura.han/PycharmProjects/SCB/v9/automation/data/data.pickle"
 self=pickle.load(open(path, "rb"))
